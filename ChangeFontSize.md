@@ -1,4 +1,4 @@
-# SQL Server Management Server Changing font size 
+# SQL Server Management Studio  Changing font size 
 
 1. In the menu click on Tools (1) and then on Options
 2. The Options (2) dialogue opens
